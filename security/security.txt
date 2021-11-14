@@ -1,2 +1,3 @@
 Contact: security@wepublic.nl
 Preferred-Languages: en,nl
+CVD policy: https://github.com/wepublic-nl/wepublic-nl/blob/main/security/cvd-policy.md
