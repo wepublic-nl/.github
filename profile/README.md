@@ -1,9 +1,5 @@
 # Wepublic bouwt tools voor public affairs en communicatieprofessionals
 
-![Alt text](/profile/logo.svg?raw=true "Optional Title")
-
-Waar ben je naar op zoek?
-
 ## Vacatures!
 Wil je ook werken met de nieuwste technieken? Zoek je naar een plek met veel ruimte voor initiatief, verantwoordelijkheid en innovatie? Solliciteer dan bij ons op een van de onderstaande vacatures.
 
